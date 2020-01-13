@@ -64,6 +64,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - Identify and mitigate the risk of digital products to individuals and society.
 - [Fairwork Foundation](https://fair.work/) - A project working to set and measure standards and provide certification in the platform economy.
+- [Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation) - Guidelines based on fundamental rights and ethical principles for trustworthy AI systems.
 
 ## Security
 
@@ -96,7 +97,11 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/oversecio/oversec) - Android app that captures and encrypts texts you type, then passes it to the actual app.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) - Addon that enables you to choose & block top 5 cloud companies based on their IPv4/6 ranges.
 - [Librefox](https://github.com/intika/Librefox) - A project that aims at enforcing privacy and security of Firefox without forking the project.
-- [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/amp2html) - Browser extension to automatically redirect Accelerated Mobile Pages (AMP) to the actual HTML page. 
+- [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/amp2html) - Browser extension to automatically redirect Accelerated Mobile Pages (AMP) to the actual HTML page.
+- [Location Privacy](https://guardianproject.info/apps/info.guardianproject.locationprivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/guardianproject/LocationPrivacy) - Privacy filters for shared location links.
+- [GadgetBridge](https://gadgetbridge.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Freeyourgadget/Gadgetbridge) - Replaces gadget vendors' closed source Android apps (Pebble, Mi Band, Liveview, HPlus and more).
+- [DeepPrivacy](https://github.com/hukkelas/DeepPrivacy) - A fully automatic face anonymization technique for images and video.
+
 
 ## Tracking
 
@@ -118,6 +123,9 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is allowListed.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - Addon that removes tracking elements form address bar URLs using 130 rules.
 - [Pi-hole](https://pi-hole.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/pi-hole/pi-hole) - A DNS sinkhole to block ads or trackers on a local network without installing any client-side software.
+- [Shariff](http://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/heiseonline/shariff) - Enables website users to share their favorite content without compromising their privacy.
+- [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
+- [EasyList](https://easylist.to/) - Sets of rules (originally designed for Adblock) that automatically remove unwanted content from the internet.
 
 ## Consent
 
@@ -134,6 +142,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) - Proxy service for Google measurement protocol and client-side replacement of analytics script.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/allinurl/goaccess) - A real-time web log analyzer and interactive viewer that runs in a terminal or in a browser.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/Countly/countly-server) - A self-hostable, real-time, mobile & web analytics, rich push notifications and crash reporting platform.
+- [Ackee](https://ackee.electerious.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/electerious/Ackee) - Self-hosted Node.js based analytics tool for those who care about privacy.
 
 ## Blocklists
 
@@ -158,6 +167,8 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/neocities/neocities) - Social network that brings back the lost individual creativity of the web.
 - [Osada](https://zotlabs.com/osada/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/macgirvin/osada) - A social network designed to be the glue that binds much of the decentralised web.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) - Selenium script to delete all of your Facebook wall posts.
+- [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/thomaswangio/minimal-twitter) - Minimal Theme for the new Twitter UI.
+- [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/coralproject/talk) - An open-source commenting platform focused on better conversation.
 
 ## Freedom
 
@@ -166,6 +177,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [SecureDrop](https://securedrop.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/freedomofpress/securedrop) - Whistleblower submission system to securily interact with anonymous sources.
 - [EdgeDeflector](https://www.ctrl.blog/entry/edgedeflector-default-browser) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/da2x/EdgeDeflector) - Force Windows 10 to use your preferred web browser instead of Microsoft Edge.
 - [Wayback Everywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox/blob/master/README.md)- Redirect all pages to snapshots in Wayback Machine + auto-save pages / auto-exclude sites.
+- [996.ICU](https://github.com/996icu/996.ICU) - Collection of resources advocating against 996 work schedule (9am – 9pm, 6 days per week).
 
 ## Geolocation
 
@@ -173,6 +185,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [OSM StreetComplete](https://github.com/westnordost/StreetComplete) - Surveyor app for Android to allow users to contribute to OpenStreetMap with ease.
 - [Mozilla Ichnaea](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/ichnaea) - An API that gets geolocation coordinates from other sources (Bluetooth, cell or WiFi, GeoIP, etc).
 - [Mozilla Stumbler](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/mozilla/MozStumbler) - A scanner that collects GPS and wireless network data for our crowd-sourced location database.
+- [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/QwantResearch/qwantmaps/) - A map application, based on OpenStreetMap, that respects your privacy.
 
 ## Gamification
 
@@ -188,6 +201,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - An Android app for creating and maintaining good habits.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ifmeorg/ifme) - A community for mental health experiences encouraging people to share their stories with loved ones.
 - [Stretchly](https://hovancik.net/stretchly) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/hovancik/stretchly) - A cross-platform app that reminds you to take breaks when working with your computer.
+- [ActivityWatch](https://activitywatch.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ActivityWatch/activitywatch) - An open-source automated time-tracker that is cross-platform, extensible and privacy-focused.
 
 ## Mindfulness
 
@@ -197,6 +211,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/skidding/jobs-done) - A ritual app for ending the work day inspired by Deep Work.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer) - A Chrome / Firefox extension for taking periodic breaks, prevent RSI, eye-strain and tiredness.
 - [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/udamken/mindbell) - Mindfulness bell and meditation timer for Android.
+- [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/sandoche/Detoxify-app) - Generate a fake app to replace any addictive app.
 
 ## Happiness
 
@@ -207,6 +222,7 @@ We invite you to our [Humane Tech Community Forum](https://community.humanetech.
 - [Post-Meritocracy Manifesto](https://postmeritocracy.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/CoralineAda/postmeritocracy) - Values and principals of software developers in the post-meritocracy world.
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
+- [The A11Y Project](https://a11yproject.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://github.com/a11yproject/a11yproject.com) - A community-driven effort to make web accessibility easier.
 
 ## Awareness
 
